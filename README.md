@@ -32,6 +32,15 @@ Please cite ANIMO as:
 - Fotopoulos, D., Manias, N., Kleanthis, N., Papantonis, D., Stavrakas, V., & Flamos, A. (2024). *Report on the decarbonisation impact of energy citizenship at the local level: Deliverable 5.3 Energy Citizens for Inclusive Decarbonization (ENCLUDE)*. Zenodo. [https://doi.org/10.5281/zenodo.11190946](https://doi.org/10.5281/zenodo.11190946)
 
 ## License
+The **ANIMO source code**, consisting of the `.py` files, is licensed under the GNU Affero General Public License:
+
+**GNU Affero General Public License**
+
+**Copyright (c) 2024 Technoeconomics of Energy Systems laboratory - University of Piraeus Research Center (TEESlab-UPRC)**
+
+```This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY, without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Affero General Public License for more details.```
+
+The input data contained in the **Data** folder are collected through publicly available sources, or are modified/simplified versions of private data. **ANIMO license does not apply to input data.**
 
 ## Acknowledgements
 The development of ANIMO has partially been funded by the following sources:
