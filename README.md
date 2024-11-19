@@ -52,6 +52,8 @@ The **ANIMO source code**, consisting of the `.py` files, is licensed under the 
 > along with this program. If not, see <https://www.gnu.org/licenses/>.
 > ```
 
+The input data contained in the **Data** folder are collected through publicly available sources, or are modified/simplified versions of private data. **ANIMO license does not apply to input data.**
+
 ## Acknowledgements
 The development of ANIMO has partially been funded by the following sources:
 - The EC-funded Horizon 2020 Framework Programme for Research and Innovation (EC H2020) Project titled “Energy Citizens for inclusive decarbonization” (ENCLUDE), with Grant Agreement No. 101022791.
