@@ -25,7 +25,7 @@ Follow these steps to get started with ANIMO:
 - Type `python main.py` to run the preconfigured example.
 
 ## Documentation
-  Read the full documentation here.
+  Read the full documentation [here](https://teeslab.unipi.gr/wp-content/uploads/2024/12/ANIMO_documentation_v1.0_FINAL.pdf).
 
 ## Citing ANIMO
 Please cite ANIMO as:
