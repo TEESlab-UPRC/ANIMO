@@ -4,7 +4,7 @@
 - [About](#about)
 - [Quick Start](#quick-start)
 - [Documentation](#documentation)
-- [Citing ATOM](#citing-atom)
+- [Citing ANIMO](#citing-atom)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
   
